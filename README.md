@@ -2,11 +2,11 @@
 
 🚀 **Software Developer | Frontend Engineer in Progress | AI & Security Enthusiast**
 
-I’m a passionate developer focused on building clean, functional, and user-centered digital experiences. Currently sharpening my skills in **frontend development**, while gradually expanding into **data, AI, and cybersecurity**.
+I’m a passionate developer focused on building clean, functional, and user-centered digital experiences. Currently sharpening my skills in **frontend development**, while gradually expanding into **AI, cybersecurity, and data**.
 
 
 ### 👨‍💻 What I’m Working On
-- Building real-world projects using **HTML, CSS, and JavaScript**
+- Building real-world projects using **Tailwind CSS, React.JS, Next.JS, and Node.JS**
 - Developing modern, responsive landing pages and portfolios
 - Exploring **AI-powered applications** and automation ideas
 - Strengthening my foundations in **software development best practices**
