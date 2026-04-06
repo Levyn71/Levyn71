@@ -1,36 +1,21 @@
-## Hi there 👋 I’m Levyn Benjamin
+## Hi there 👋 My name is Levyn Benjamin
 
-🚀 **Software Developer | Frontend Engineer in Progress | AI & Security Enthusiast**
+🚀 **Software Developer | AI & Security Enthusiast**
 
-I’m a passionate developer focused on building clean, functional, and user-centered digital experiences. Currently sharpening my skills in **frontend development**, while gradually expanding into **AI, cybersecurity, and data**.
+I am a software developer based in Mombasa, Kenya, with a background in Information Technology. I enjoy building clean, reliable, and user-friendly web applications that solve real problems. Most of my work focuses on modern web technologies, databases, and system design.
 
+I have hands-on experience creating e-commerce websites and business platforms, handling both frontend and backend work. I am comfortable working with tools like JavaScript, React, Next.js, Django, MySQL, and cloud platforms such as Vercel and Supabase. I also understand authentication systems, payments, and deployment to production.
 
-### 👨‍💻 What I’m Working On
-- Building real-world projects using **Tailwind CSS, React.JS, Next.JS, and Node.JS**
-- Developing modern, responsive landing pages and portfolios
-- Exploring **AI-powered applications** and automation ideas
-- Strengthening my foundations in **software development best practices**
+I previously worked as a lead software engineer at Xterns by darey.io , where I gained real-world experience working on live projects, collaborating with other developers, and improving my problem-solving skills. I enjoy learning new technologies, improving performance, and writing code that is easy to maintain.
 
+My goal is to keep growing as a software developer, work on impactful products, and contribute to projects that make technology more useful and accessible.
 
-### 🌱 What I’m Currently Learning
-- Advanced Javascript & React Development
-- JavaScript for interactive web applications
-- Data analysis → data science → machine learning (long-term path)
-- Basics of system security and vulnerability testing
-
-
-### 🤝 Open to Collaborate On
-- Frontend web projects  
-- Open-source beginner-friendly repositories  
-- Creative tech ideas with real-world impact  
-
-
-### 💬 Ask Me About
-- Frontend Development  
-- Building clean project structures  
-- Learning programming step by step  
-- Getting started with tech as a student developer  
-
+🌍 I'm based in Mombasa, kenya
+🖥️ See my portfolio at Levyn Benjamin
+✉️ You can contact me at levynbenjamin@gmail.com
+🚀 I'm currently working on Real Estate Management Platform for Primestone Real Estate
+👥 I'm looking to collaborate on all things tech
+💬 Debugging is my cardio.
 
 ### 📫 How to Reach Me
 - GitHub: [@Levyn71](https://github.com/Levyn71)
@@ -42,3 +27,12 @@ I enjoy turning ideas into projects and improving them one step at a time.
 
 
 ⭐ *Always learning. Always building.*
+
+
+
+
+
+
+
+
+
