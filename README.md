@@ -11,7 +11,7 @@ I previously worked on freelance projects as a software developer at Upwork, whe
 My goal is to keep growing as a software developer, work on impactful products, and contribute to projects that make technology more useful and accessible.
 
 🌍 I'm based in Mombasa, kenya
-🖥️ See my portfolio at https://levyndev.netlify.app/
+🖥️ See my portfolio at https://levyn-dev.vercel.app/
 ✉️ You can contact me at levynbenjamin@gmail.com
 🚀 I'm currently working on Real Estate Management Platform for Primestone Real Estate
 👥 I'm looking to collaborate on all things tech
